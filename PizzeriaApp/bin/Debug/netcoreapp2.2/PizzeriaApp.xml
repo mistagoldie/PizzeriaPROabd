@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PizzeriaApp</name>
+    </assembly>
+    <members>
+        <member name="M:PizzeriaApp.Controllers.PizzaController.GetPizza">
+            <summary>
+            Endpoint for getting values
+            </summary>
+            <returns>fasdfsadfsdafsdaf</returns>
+        </member>
+    </members>
+</doc>
